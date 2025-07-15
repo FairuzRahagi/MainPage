@@ -82,7 +82,7 @@ main {
 /* Link utama */
 .menu > li > a {
   display: block;
-  background-color: #3498db;
+  background-color: #f1f1f1;
   color: white;
   padding: 10px 16px;
   text-decoration: none;
