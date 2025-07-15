@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #24292e;
+  color: #fff;
+  padding: 20px 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px 0;
+}
+
+.repository {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.repository h2 {
+  margin-top: 0;
+}
+
+.repository ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.repository ul li {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.repository ul li a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.repository ul li a:hover {
+  text-decoration: underline;
+}
